@@ -1,0 +1,5 @@
+In Module One, you will be introduced to basic text mining tasks, and will be able to interpret text in terms of its 
+building blocks – i.e. words and sentences, and reading in text files, processing text, and addressing common issues 
+with unstructured text. You will also learn how to write regular expressions to find and extract words and concepts 
+that follow specific textual patterns. You will be introduced to UTF-8 encoding and how multi-byte characters are 
+handled in Python. This week’s assignment will focus on identifying dates using regular expressions and normalize them.
